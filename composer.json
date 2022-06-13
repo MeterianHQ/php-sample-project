@@ -3,7 +3,7 @@
     "description": "OpenCFP is a PHP-based conference talk submission system.",
     "license": "MIT",
     "require": {
-        "guzzlehttp/guzzle": "6.5.6",
+        "guzzlehttp/guzzle": "7.4.4",
         "michelf/php-markdown": "~1.0",
         "monolog/monolog":"~1.0"
     },
